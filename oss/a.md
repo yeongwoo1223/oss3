@@ -1,4 +1,5 @@
 hanyang
 university
 erica
-department of AI
+Department of Artificial Intelligence
+
